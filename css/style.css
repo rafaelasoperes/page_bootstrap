@@ -1,0 +1,21 @@
+body {
+    font: 20px Arial, sans-serif;
+    background: #f9f9f9;
+}
+
+.margin {
+    padding: 20px 0 50px 0;
+}
+
+.navbar {
+    background: #9AD1D4
+}
+
+.parceiros {
+    background: #CCDBDC;
+}
+
+.bg-footer {
+    background:#003249;
+    color: #ffffff;
+}
